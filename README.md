@@ -14,4 +14,4 @@ Download via Google Drive using this [link](www.google.com).<br />
 - [WMS](http://158.194.94.29:8081/geoserver/solar_pot/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=solar_pot%3AAnnual_solar_PV_potential_MWh&maxFeatures=50)
 - [WFS](http://158.194.94.29:8081/geoserver/solar_pot/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=solar_pot%3AAnnual_solar_PV_potential_MWh&maxFeatures=50)
 
-[**Link to the Raster KML file**](https://github.com/rochanofa/solarPV-morumbi/)<br />
+[**Link to the Raster KML file**](https://github.com/rochanofa/solarPV-morumbi/blob/main/kml/solar_pot-Annual_solar_radiation_kWh_m2.kml)<br />
