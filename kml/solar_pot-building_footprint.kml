@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns2="http://www.google.com/kml/ext/2.2" xmlns:ns3="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <LookAt>
+            <longitude>-46.710110464606856</longitude>
+            <latitude>-23.595095670721207</latitude>
+            <altitude>7691.139640210307</altitude>
+            <heading>0.0</heading>
+            <tilt>0.0</tilt>
+            <range>6214.844242410672</range>
+            <altitudeMode>clampToGround</altitudeMode>
+        </LookAt>
+        <NetworkLink>
+            <name>building_footprint</name>
+            <visibility>1</visibility>
+            <open>1</open>
+            <LookAt>
+                <longitude>-46.71010939114538</longitude>
+                <latitude>-23.59509641672139</latitude>
+                <altitude>8693.26952787266</altitude>
+                <heading>0.0</heading>
+                <tilt>0.0</tilt>
+                <range>7024.617755028333</range>
+                <altitudeMode>clampToGround</altitudeMode>
+            </LookAt>
+            <Url>
+                <href>http://158.194.94.29:8081/geoserver/solar_pot/wms?service=wms&amp;request=GetMap&amp;version=1.1.1&amp;format=application/vnd.google-earth.kml+xml&amp;layers=solar_pot:building_footprint&amp;styles=bld_footprint&amp;height=2048&amp;width=2048&amp;transparent=false&amp;srs=EPSG:4326&amp;format_options=AUTOFIT:true;KMATTR:true;KMPLACEMARK:false;KMSCORE:40;MODE:refresh;SUPEROVERLAY:false</href>
+                <refreshInterval>0.0</refreshInterval>
+                <viewRefreshMode>onStop</viewRefreshMode>
+                <viewRefreshTime>1.0</viewRefreshTime>
+                <viewBoundScale>1.0</viewBoundScale>
+            </Url>
+        </NetworkLink>
+    </Document>
+</kml>
