@@ -7,7 +7,7 @@ The project result can be accessed as an integrated web-map application and City
 [**Link to the City GML model**](https://github.com/rochanofa/solarPV-morumbi/tree/main/gml)<br />
 [**Link to Metadata**](https://github.com/rochanofa/solarPV-morumbi/tree/main/metadata)<br />
 <br />
-Download via Google Drive using this [link](www.google.com).<br />
+Download via Google Drive using this [link](https://drive.google.com/drive/folders/12C5JODKV0KxPlTehr4aZmvr03LJRqXid?usp=sharing).<br />
 <br />
 <br />
 **Link to web services:**<br />
