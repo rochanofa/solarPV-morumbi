@@ -18,5 +18,4 @@ Download via Google Drive using this [link](www.google.com).<br />
 
 
 
-_Humbly created by Rochamukti Rizcanofana
-_
+_Humbly created by Rochamukti Rizcanofana_
