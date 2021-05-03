@@ -3,9 +3,9 @@
 A Copernicus Master in Digital Earth (CDE) Master's thesis project that visualizes modelling result of rooftop solar PV potential in Morumbi, Sao Paulo. <br />
 The project result can be accessed as an integrated web-map application and CityGML model.<br />
 <br />
-[**Link to the webmap application**](https://github.com/rochanofa/solarPV-morumbi/)<br />
-[**Link to the City GML model**](https://github.com/rochanofa/solarPV-morumbi/)<br />
-[**Link to Metadata**](https://github.com/rochanofa/solarPV-morumbi/)<br />
+[**Link to the webmap application**](http://158.194.94.29:8081/webgis/solar_map_morumbi.html)<br />
+[**Link to the City GML model**](https://github.com/rochanofa/solarPV-morumbi/tree/main/gml)<br />
+[**Link to Metadata**](https://github.com/rochanofa/solarPV-morumbi/tree/main/metadata)<br />
 <br />
 Download via Google Drive using this [link](www.google.com).<br />
 <br />
