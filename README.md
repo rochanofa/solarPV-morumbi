@@ -21,4 +21,5 @@ Download via Google Drive using this [link](https://drive.google.com/drive/folde
 
 <sub>_*Humbly created by [Rochamukti Rizcanofana](https://rochamuktirizca.wixsite.com/e-portfolio)_</sub>
 
-![alt text](https://github.com/rochanofa/solarPV-morumbi/blob/b570b5ca306010587ea45e8cfa4b388f7fc8d28a/data/logo.JPG)
+
+<img src="https://github.com/rochanofa/solarPV-morumbi/blob/b570b5ca306010587ea45e8cfa4b388f7fc8d28a/data/logo.JPG" width="40%" >
